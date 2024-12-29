@@ -1,4 +1,4 @@
-# FrostByte - SIH1650: **Glacial Lake Outburst Flood (GLOF) Early Warning System**
+# FrostByte -  **Glacial Lake Outburst Flood (GLOF) Early Warning System**
 
 ## **Overview**
 Glacial Lake Outburst Floods (GLOFs) pose significant risks to communities and infrastructure in glacial regions. With climate change accelerating the formation and expansion of glacial lakes, the need for a robust Early Warning System (EWS) has become critical. **FrostByte** aims to address this by utilizing **remote sensing**, **IoT sensors**, and **machine learning** to provide real-time monitoring and prediction of GLOFs.
