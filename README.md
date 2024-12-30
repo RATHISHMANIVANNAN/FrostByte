@@ -1,12 +1,12 @@
 # FrostByte -  **Glacial Lake Outburst Flood (GLOF) Early Warning System**
-
+![logo]()
 ## **Overview**
 Glacial Lake Outburst Floods (GLOFs) pose significant risks to communities and infrastructure in glacial regions. With climate change accelerating the formation and expansion of glacial lakes, the need for a robust Early Warning System (EWS) has become critical. **FrostByte** aims to address this by utilizing **remote sensing**, **IoT sensors**, and **machine learning** to provide real-time monitoring and prediction of GLOFs.
 
 
 ## **Project Purpose**
 The purpose of this project is to monitor glacial lakes and their surrounding environment in **real-time** to detect critical changes that may indicate an impending Glacial Lake Outburst Flood. This system will provide critical lead time for **evacuation** and **mitigation efforts** to minimize the potential impact of these catastrophic events.
-
+![logo]()
 ## **Proposed Solution**
 We propose a comprehensive system consisting of:
 - **IoT Sensors**: Installed near glacial lakes to measure key parameters such as:
@@ -17,7 +17,7 @@ We propose a comprehensive system consisting of:
 - **Remote Sensing Data**: Satellite imagery and data will be used to monitor changes in lake size and detect potential threats.
 - **Machine Learning Models**: Advanced ML algorithms analyze sensor and remote sensing data to detect early warning signs of GLOFs.
 - **Early Warning System**: Once a potential GLOF is detected, the system will trigger an early warning, allowing authorities and communities to respond in time.
-
+![logo]()
 ## **Innovation and Uniqueness**
 - **Edge Computing**: Data processing happens at the edge, near the sensors, reducing latency and enabling real-time monitoring.
 - **Hybrid Data Sources**: By combining **satellite data** with **on-ground sensor data**, we enhance the accuracy of predictions and ensure comprehensive monitoring of glacial lakes.
@@ -29,7 +29,7 @@ We propose a comprehensive system consisting of:
 - **Cloud Computing**
 - **Remote Sensing (Satellite Data)**
 - **Machine Learning Models**
-
+![logo]()
 ## **How It Works**
 1. **Deployment**: IoT sensors are deployed in the glacial lake area to monitor key environmental factors.
 2. **Data Transmission**: Sensor data is sent to the cloud via an Edge Gateway for processing.
