@@ -40,5 +40,6 @@ We propose a comprehensive system consisting of:
 ## **Conclusion**
 **FrostByte** provides a cutting-edge solution for **GLOF prediction** by integrating modern **remote sensing**, **IoT sensor networks**, and **machine learning**. This system enhances safety in glacial regions by offering critical lead time for mitigation efforts and evacuation, thus reducing the risk of damage to life and property.
 
-## **License**
-This project is licensed under the [MIT License](LICENSE).
+
+
+
