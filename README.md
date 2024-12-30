@@ -6,7 +6,7 @@ Glacial Lake Outburst Floods (GLOFs) pose significant risks to communities and i
 
 ## **Project Purpose**
 The purpose of this project is to monitor glacial lakes and their surrounding environment in **real-time** to detect critical changes that may indicate an impending Glacial Lake Outburst Flood. This system will provide critical lead time for **evacuation** and **mitigation efforts** to minimize the potential impact of these catastrophic events.
-![logo](https://github.com/ipsita-kar/FrostByte/blob/main/Images/WhatsApp%20Image%202024-12-30%20at%2008.14.21.jpeg)
+![logo](https://github.com/ipsita-kar/FrostByte/blob/main/Images/Mentoring.jpg)
 ## **Proposed Solution**
 We propose a comprehensive system consisting of:
 - **IoT Sensors**: Installed near glacial lakes to measure key parameters such as:
