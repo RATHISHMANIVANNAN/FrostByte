@@ -3,7 +3,7 @@
 ## **Overview**
 Glacial Lake Outburst Floods (GLOFs) pose significant risks to communities and infrastructure in glacial regions. With climate change accelerating the formation and expansion of glacial lakes, the need for a robust Early Warning System (EWS) has become critical. **FrostByte** aims to address this by utilizing **remote sensing**, **IoT sensors**, and **machine learning** to provide real-time monitoring and prediction of GLOFs.
 
-![logo]()
+![logo](https://github.com/ipsita-kar/FrostByte/blob/main/GLOF%20HARDWARE%20(1)%20(1).mp4)
 ## **Project Purpose**
 The purpose of this project is to monitor glacial lakes and their surrounding environment in **real-time** to detect critical changes that may indicate an impending Glacial Lake Outburst Flood. This system will provide critical lead time for **evacuation** and **mitigation efforts** to minimize the potential impact of these catastrophic events.
 ![logo](https://github.com/ipsita-kar/FrostByte/blob/main/Images/Mentoring.jpg)
